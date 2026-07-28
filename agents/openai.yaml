@@ -1,0 +1,4 @@
+interface:
+  display_name: "极简场景设计"
+  short_description: "用一句描述生成跨色彩、题材与写实程度的极简视觉作品"
+  default_prompt: "使用 $minimal-scene-design，根据主题选择合适的极简机制，直接生成一张不受固定颜色和风格限制的图片。"
